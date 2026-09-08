@@ -1,0 +1,2 @@
+Time,Sent,Received,Interfered,No Receivers, Busy, Under
+3600,5179,3886,196,0,1051,46

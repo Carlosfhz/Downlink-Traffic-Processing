@@ -1,0 +1,22 @@
+{
+    "020000B9": {
+        "schedulling_failure": 0,
+        "scheduling_conflict_rx1": 0,
+        "scheduling_conflict_rx2": 0,
+        "duty_cycle_rx1": 0,
+        "duty_cycle_rx2": 0,
+        "gw_blocked_rx1": 0,
+        "gw_blocked_rx2": 0,
+        "conflict_no_detected_in_ns": 1
+    },
+    "02000012": {
+        "schedulling_failure": 0,
+        "scheduling_conflict_rx1": 0,
+        "scheduling_conflict_rx2": 0,
+        "duty_cycle_rx1": 0,
+        "duty_cycle_rx2": 0,
+        "gw_blocked_rx1": 0,
+        "gw_blocked_rx2": 0,
+        "conflict_no_detected_in_ns": 1
+    }
+}

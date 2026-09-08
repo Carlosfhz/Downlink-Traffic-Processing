@@ -1,0 +1,489 @@
+spawn ./ns3 run --enable-sudo elora-example-TTN --log --test --devices=400 --period=360 --gateways=3 -seed=2400 --title=TTS_CUSTOM_TEST_LONG_CT/TTS_CUSTOM_FILES_LONG_CT_TTS_stats_period_360_gateway_3_seed_2400_percentage_75_log_N_ED_400 --perConfirmed=75
+Sudo password:
+Area: 1.23857 km^2, Density: 322.954 devs/km^2
+
+|- SF distribution:    SF6:0, SF7:114, SF8:66, SF9:42, SF10:66, SF11:37, SF12:75, 
+
+All configurations terminated. Starting simulation...
+
+--------------------------------------------------------------------------------
+End Device 4: Position(-79.7291, 367.992, 1), Periodicity: Not set, Spreading Factor 7
+End Device 5: Position(268.802, 463.394, 1), Periodicity: Not set, Spreading Factor 11
+End Device 6: Position(-127.972, 321.255, 1), Periodicity: Not set, Spreading Factor 7
+End Device 7: Position(-45.7616, 131.434, 1), Periodicity: Not set, Spreading Factor 8
+End Device 8: Position(173.29, -332.018, 1), Periodicity: Not set, Spreading Factor 11
+End Device 9: Position(60.3002, 498.083, 1), Periodicity: Not set, Spreading Factor 9
+End Device 10: Position(321.264, 268.561, 1), Periodicity: Not set, Spreading Factor 11
+End Device 11: Position(-201.182, -363.003, 1), Periodicity: Not set, Spreading Factor 12
+End Device 12: Position(-235.014, -196.458, 1), Periodicity: Not set, Spreading Factor 8
+End Device 13: Position(286.817, -4.68201, 1), Periodicity: Not set, Spreading Factor 7
+End Device 14: Position(-156.345, 120.631, 1), Periodicity: Not set, Spreading Factor 8
+End Device 15: Position(-137.28, 440.281, 1), Periodicity: Not set, Spreading Factor 10
+End Device 16: Position(212.075, 496.261, 1), Periodicity: Not set, Spreading Factor 9
+End Device 17: Position(-9.62559, -488.531, 1), Periodicity: Not set, Spreading Factor 12
+End Device 18: Position(404.599, -172.352, 1), Periodicity: Not set, Spreading Factor 8
+End Device 19: Position(-315.654, 384.095, 1), Periodicity: Not set, Spreading Factor 10
+End Device 20: Position(-395.717, 231.97, 1), Periodicity: Not set, Spreading Factor 10
+End Device 21: Position(89.8786, -116.753, 1), Periodicity: Not set, Spreading Factor 8
+End Device 22: Position(312.639, -402.273, 1), Periodicity: Not set, Spreading Factor 12
+End Device 23: Position(-450.251, -283.655, 1), Periodicity: Not set, Spreading Factor 12
+End Device 24: Position(-174.662, 27.5551, 1), Periodicity: Not set, Spreading Factor 7
+End Device 25: Position(449.393, 235.607, 1), Periodicity: Not set, Spreading Factor 10
+End Device 26: Position(-325.344, -195.612, 1), Periodicity: Not set, Spreading Factor 10
+End Device 27: Position(-42.2926, 442.989, 1), Periodicity: Not set, Spreading Factor 9
+End Device 28: Position(-278.027, -399.261, 1), Periodicity: Not set, Spreading Factor 12
+End Device 29: Position(-157.144, -386.747, 1), Periodicity: Not set, Spreading Factor 12
+End Device 30: Position(194.313, -411.455, 1), Periodicity: Not set, Spreading Factor 12
+End Device 31: Position(-336.364, 93.8163, 1), Periodicity: Not set, Spreading Factor 7
+End Device 32: Position(175.888, -332.912, 1), Periodicity: Not set, Spreading Factor 11
+End Device 33: Position(-325.267, -296.005, 1), Periodicity: Not set, Spreading Factor 11
+End Device 34: Position(236.575, -468.976, 1), Periodicity: Not set, Spreading Factor 12
+End Device 35: Position(-41.8074, -12.1125, 1), Periodicity: Not set, Spreading Factor 9
+End Device 36: Position(-162.196, 275.193, 1), Periodicity: Not set, Spreading Factor 8
+End Device 37: Position(184.142, -256.168, 1), Periodicity: Not set, Spreading Factor 11
+End Device 38: Position(-271.398, 53.2112, 1), Periodicity: Not set, Spreading Factor 7
+End Device 39: Position(-290.275, 457.16, 1), Periodicity: Not set, Spreading Factor 12
+End Device 40: Position(35.8639, 199.744, 1), Periodicity: Not set, Spreading Factor 7
+End Device 41: Position(-340.735, -53.8723, 1), Periodicity: Not set, Spreading Factor 7
+End Device 42: Position(-136.225, -33.1736, 1), Periodicity: Not set, Spreading Factor 7
+End Device 43: Position(482.234, -329.973, 1), Periodicity: Not set, Spreading Factor 10
+End Device 44: Position(-47.513, 137.822, 1), Periodicity: Not set, Spreading Factor 7
+End Device 45: Position(-140.918, 334.306, 1), Periodicity: Not set, Spreading Factor 8
+End Device 46: Position(286.843, -32.3899, 1), Periodicity: Not set, Spreading Factor 7
+End Device 47: Position(472.366, -82.2672, 1), Periodicity: Not set, Spreading Factor 9
+End Device 48: Position(-170.907, -249.467, 1), Periodicity: Not set, Spreading Factor 12
+End Device 49: Position(-207.34, -160.922, 1), Periodicity: Not set, Spreading Factor 8
+End Device 50: Position(497.998, -25.7286, 1), Periodicity: Not set, Spreading Factor 8
+End Device 51: Position(-460.015, -325.54, 1), Periodicity: Not set, Spreading Factor 12
+End Device 52: Position(-90.001, -457.422, 1), Periodicity: Not set, Spreading Factor 11
+End Device 53: Position(2.00649, 86.6869, 1), Periodicity: Not set, Spreading Factor 8
+End Device 54: Position(-450.127, -167.424, 1), Periodicity: Not set, Spreading Factor 11
+End Device 55: Position(417.246, -318.219, 1), Periodicity: Not set, Spreading Factor 12
+End Device 56: Position(-203.354, 480.529, 1), Periodicity: Not set, Spreading Factor 8
+End Device 57: Position(-250.456, 125.81, 1), Periodicity: Not set, Spreading Factor 7
+End Device 58: Position(-206.736, -221.63, 1), Periodicity: Not set, Spreading Factor 10
+End Device 59: Position(140.547, -461.619, 1), Periodicity: Not set, Spreading Factor 12
+End Device 60: Position(282.116, 171.071, 1), Periodicity: Not set, Spreading Factor 7
+End Device 61: Position(-306.753, -171.002, 1), Periodicity: Not set, Spreading Factor 8
+End Device 62: Position(181.223, 234.501, 1), Periodicity: Not set, Spreading Factor 8
+End Device 63: Position(-59.3661, -13.9898, 1), Periodicity: Not set, Spreading Factor 9
+End Device 64: Position(148.54, -195.073, 1), Periodicity: Not set, Spreading Factor 8
+End Device 65: Position(-275.084, 102.317, 1), Periodicity: Not set, Spreading Factor 7
+End Device 66: Position(-229.519, 220.613, 1), Periodicity: Not set, Spreading Factor 9
+End Device 67: Position(-212.07, 360.856, 1), Periodicity: Not set, Spreading Factor 10
+End Device 68: Position(-383.422, -231.252, 1), Periodicity: Not set, Spreading Factor 12
+End Device 69: Position(-399.662, -245.491, 1), Periodicity: Not set, Spreading Factor 9
+End Device 70: Position(-370.65, -130.311, 1), Periodicity: Not set, Spreading Factor 8
+End Device 71: Position(356.094, -7.53393, 1), Periodicity: Not set, Spreading Factor 7
+End Device 72: Position(300.15, 451.889, 1), Periodicity: Not set, Spreading Factor 9
+End Device 73: Position(98.8464, -143.336, 1), Periodicity: Not set, Spreading Factor 9
+End Device 74: Position(-242.372, -102.471, 1), Periodicity: Not set, Spreading Factor 7
+End Device 75: Position(57.6498, -155.28, 1), Periodicity: Not set, Spreading Factor 8
+End Device 76: Position(135.935, 94.5712, 1), Periodicity: Not set, Spreading Factor 8
+End Device 77: Position(171.485, -295.444, 1), Periodicity: Not set, Spreading Factor 8
+End Device 78: Position(-90.972, -149.528, 1), Periodicity: Not set, Spreading Factor 9
+End Device 79: Position(262.623, 29.6068, 1), Periodicity: Not set, Spreading Factor 7
+End Device 80: Position(305.482, 203.856, 1), Periodicity: Not set, Spreading Factor 8
+End Device 81: Position(79.4735, 243.782, 1), Periodicity: Not set, Spreading Factor 7
+End Device 82: Position(268.665, 121.152, 1), Periodicity: Not set, Spreading Factor 7
+End Device 83: Position(-206.751, -351.725, 1), Periodicity: Not set, Spreading Factor 11
+End Device 84: Position(-284.203, 59.3585, 1), Periodicity: Not set, Spreading Factor 7
+End Device 85: Position(-272.751, -275.038, 1), Periodicity: Not set, Spreading Factor 10
+End Device 86: Position(157.453, 475.472, 1), Periodicity: Not set, Spreading Factor 10
+End Device 87: Position(-19.0141, 173.008, 1), Periodicity: Not set, Spreading Factor 7
+End Device 88: Position(-446.919, -454.69, 1), Periodicity: Not set, Spreading Factor 12
+End Device 89: Position(-343.67, -294.065, 1), Periodicity: Not set, Spreading Factor 12
+End Device 90: Position(-203.908, 486.869, 1), Periodicity: Not set, Spreading Factor 11
+End Device 91: Position(241.228, -117.142, 1), Periodicity: Not set, Spreading Factor 7
+End Device 92: Position(291.841, -117.59, 1), Periodicity: Not set, Spreading Factor 7
+End Device 93: Position(-443.271, -193.083, 1), Periodicity: Not set, Spreading Factor 10
+End Device 94: Position(249.82, -347.784, 1), Periodicity: Not set, Spreading Factor 10
+End Device 95: Position(11.3127, 362.172, 1), Periodicity: Not set, Spreading Factor 7
+End Device 96: Position(157.506, 329.602, 1), Periodicity: Not set, Spreading Factor 8
+End Device 97: Position(393.973, -60.5038, 1), Periodicity: Not set, Spreading Factor 8
+End Device 98: Position(-295.868, 40.8278, 1), Periodicity: Not set, Spreading Factor 7
+End Device 99: Position(388.345, -309.315, 1), Periodicity: Not set, Spreading Factor 12
+End Device 100: Position(485.37, 149.972, 1), Periodicity: Not set, Spreading Factor 10
+End Device 101: Position(-151.402, 296.664, 1), Periodicity: Not set, Spreading Factor 8
+End Device 102: Position(335.289, -281.674, 1), Periodicity: Not set, Spreading Factor 12
+End Device 103: Position(306.559, -58.2475, 1), Periodicity: Not set, Spreading Factor 7
+End Device 104: Position(199.267, 154.243, 1), Periodicity: Not set, Spreading Factor 7
+End Device 105: Position(-343.292, -23.2839, 1), Periodicity: Not set, Spreading Factor 7
+End Device 106: Position(-217.904, -329.265, 1), Periodicity: Not set, Spreading Factor 10
+End Device 107: Position(-254.862, 250.019, 1), Periodicity: Not set, Spreading Factor 8
+End Device 108: Position(133.34, 81.9858, 1), Periodicity: Not set, Spreading Factor 8
+End Device 109: Position(-315.049, -15.2428, 1), Periodicity: Not set, Spreading Factor 7
+End Device 110: Position(68.5699, -217.105, 1), Periodicity: Not set, Spreading Factor 10
+End Device 111: Position(-447.931, 403.457, 1), Periodicity: Not set, Spreading Factor 11
+End Device 112: Position(5.90548, 299.649, 1), Periodicity: Not set, Spreading Factor 7
+End Device 113: Position(108.65, 345.827, 1), Periodicity: Not set, Spreading Factor 7
+End Device 114: Position(-19.8254, 256.279, 1), Periodicity: Not set, Spreading Factor 7
+End Device 115: Position(-99.3995, -243.486, 1), Periodicity: Not set, Spreading Factor 10
+End Device 116: Position(-132.996, -230.691, 1), Periodicity: Not set, Spreading Factor 10
+End Device 117: Position(-171.989, -19.7258, 1), Periodicity: Not set, Spreading Factor 7
+End Device 118: Position(133.11, -295.526, 1), Periodicity: Not set, Spreading Factor 10
+End Device 119: Position(463.851, -34.8679, 1), Periodicity: Not set, Spreading Factor 10
+End Device 120: Position(-302.697, -146.551, 1), Periodicity: Not set, Spreading Factor 7
+End Device 121: Position(381.272, 327.234, 1), Periodicity: Not set, Spreading Factor 12
+End Device 122: Position(124.351, -80.3346, 1), Periodicity: Not set, Spreading Factor 7
+End Device 123: Position(30.14, -116.043, 1), Periodicity: Not set, Spreading Factor 10
+End Device 124: Position(183.922, -52.5942, 1), Periodicity: Not set, Spreading Factor 7
+End Device 125: Position(178.34, 194.36, 1), Periodicity: Not set, Spreading Factor 7
+End Device 126: Position(338.687, -282.879, 1), Periodicity: Not set, Spreading Factor 9
+End Device 127: Position(11.3655, 11.0149, 1), Periodicity: Not set, Spreading Factor 8
+End Device 128: Position(484.345, 363.369, 1), Periodicity: Not set, Spreading Factor 12
+End Device 129: Position(161.706, 117.093, 1), Periodicity: Not set, Spreading Factor 7
+End Device 130: Position(-470.905, -447.649, 1), Periodicity: Not set, Spreading Factor 11
+End Device 131: Position(-61.7684, 126.531, 1), Periodicity: Not set, Spreading Factor 7
+End Device 132: Position(-253.272, 75.7233, 1), Periodicity: Not set, Spreading Factor 7
+End Device 133: Position(193.045, 0.800744, 1), Periodicity: Not set, Spreading Factor 7
+End Device 134: Position(375.944, -217.616, 1), Periodicity: Not set, Spreading Factor 9
+End Device 135: Position(-354.475, -240.306, 1), Periodicity: Not set, Spreading Factor 10
+End Device 136: Position(193.263, 476.323, 1), Periodicity: Not set, Spreading Factor 12
+End Device 137: Position(-172.698, 287.245, 1), Periodicity: Not set, Spreading Factor 8
+End Device 138: Position(334.676, -493.417, 1), Periodicity: Not set, Spreading Factor 12
+End Device 139: Position(-374.229, -134.571, 1), Periodicity: Not set, Spreading Factor 7
+End Device 140: Position(-495.984, 117.111, 1), Periodicity: Not set, Spreading Factor 10
+End Device 141: Position(127.171, -80.4151, 1), Periodicity: Not set, Spreading Factor 7
+End Device 142: Position(409.011, 277.635, 1), Periodicity: Not set, Spreading Factor 10
+End Device 143: Position(459.723, -349.816, 1), Periodicity: Not set, Spreading Factor 12
+End Device 144: Position(-47.5869, 449.489, 1), Periodicity: Not set, Spreading Factor 9
+End Device 145: Position(-494.208, -328.989, 1), Periodicity: Not set, Spreading Factor 12
+End Device 146: Position(-165.432, 343.713, 1), Periodicity: Not set, Spreading Factor 8
+End Device 147: Position(384.087, -399.464, 1), Periodicity: Not set, Spreading Factor 11
+End Device 148: Position(371.064, -411.183, 1), Periodicity: Not set, Spreading Factor 12
+End Device 149: Position(365.957, -247.83, 1), Periodicity: Not set, Spreading Factor 10
+End Device 150: Position(-154.984, 300.932, 1), Periodicity: Not set, Spreading Factor 8
+End Device 151: Position(-323.877, 114.023, 1), Periodicity: Not set, Spreading Factor 8
+End Device 152: Position(-288.596, -261.225, 1), Periodicity: Not set, Spreading Factor 9
+End Device 153: Position(476.491, 0.359894, 1), Periodicity: Not set, Spreading Factor 9
+End Device 154: Position(84.975, -107.791, 1), Periodicity: Not set, Spreading Factor 8
+End Device 155: Position(-187.328, -494.929, 1), Periodicity: Not set, Spreading Factor 12
+End Device 156: Position(-259.873, -292.338, 1), Periodicity: Not set, Spreading Factor 11
+End Device 157: Position(123.356, -214.629, 1), Periodicity: Not set, Spreading Factor 9
+End Device 158: Position(-75.7934, -83.4259, 1), Periodicity: Not set, Spreading Factor 8
+End Device 159: Position(115.341, 8.67686, 1), Periodicity: Not set, Spreading Factor 7
+End Device 160: Position(26.932, 101.004, 1), Periodicity: Not set, Spreading Factor 7
+End Device 161: Position(348.388, -311.108, 1), Periodicity: Not set, Spreading Factor 9
+End Device 162: Position(-356.603, 389.007, 1), Periodicity: Not set, Spreading Factor 10
+End Device 163: Position(-456.505, 337.83, 1), Periodicity: Not set, Spreading Factor 12
+End Device 164: Position(487.528, -11.2661, 1), Periodicity: Not set, Spreading Factor 10
+End Device 165: Position(257.772, -138.156, 1), Periodicity: Not set, Spreading Factor 7
+End Device 166: Position(-97.9042, 181.89, 1), Periodicity: Not set, Spreading Factor 7
+End Device 167: Position(175.54, -295.356, 1), Periodicity: Not set, Spreading Factor 11
+End Device 168: Position(198.215, -101.171, 1), Periodicity: Not set, Spreading Factor 7
+End Device 169: Position(-398.847, -130.63, 1), Periodicity: Not set, Spreading Factor 10
+End Device 170: Position(-317.291, 262.543, 1), Periodicity: Not set, Spreading Factor 8
+End Device 171: Position(-410.279, 438.61, 1), Periodicity: Not set, Spreading Factor 10
+End Device 172: Position(-379.65, -375.13, 1), Periodicity: Not set, Spreading Factor 10
+End Device 173: Position(-490.931, -426.789, 1), Periodicity: Not set, Spreading Factor 12
+End Device 174: Position(6.79563, 60.2715, 1), Periodicity: Not set, Spreading Factor 9
+End Device 175: Position(-294.61, -322.176, 1), Periodicity: Not set, Spreading Factor 10
+End Device 176: Position(21.4833, -146.107, 1), Periodicity: Not set, Spreading Factor 10
+End Device 177: Position(26.8462, 303.591, 1), Periodicity: Not set, Spreading Factor 7
+End Device 178: Position(139.149, 149.637, 1), Periodicity: Not set, Spreading Factor 7
+End Device 179: Position(414.53, 356.696, 1), Periodicity: Not set, Spreading Factor 11
+End Device 180: Position(105.329, -220.609, 1), Periodicity: Not set, Spreading Factor 8
+End Device 181: Position(27.562, 140.117, 1), Periodicity: Not set, Spreading Factor 7
+End Device 182: Position(-499.162, 401.107, 1), Periodicity: Not set, Spreading Factor 12
+End Device 183: Position(407.2, -172.467, 1), Periodicity: Not set, Spreading Factor 8
+End Device 184: Position(454.768, -190.26, 1), Periodicity: Not set, Spreading Factor 11
+End Device 185: Position(-168.73, -136.186, 1), Periodicity: Not set, Spreading Factor 8
+End Device 186: Position(466.5, -346.811, 1), Periodicity: Not set, Spreading Factor 12
+End Device 187: Position(-373.875, -293.411, 1), Periodicity: Not set, Spreading Factor 11
+End Device 188: Position(-318.672, -342.111, 1), Periodicity: Not set, Spreading Factor 10
+End Device 189: Position(166.894, 116.075, 1), Periodicity: Not set, Spreading Factor 8
+End Device 190: Position(-324.114, 295.398, 1), Periodicity: Not set, Spreading Factor 10
+End Device 191: Position(-373.365, 252.864, 1), Periodicity: Not set, Spreading Factor 11
+End Device 192: Position(9.94556, -11.4942, 1), Periodicity: Not set, Spreading Factor 9
+End Device 193: Position(402.463, -145.207, 1), Periodicity: Not set, Spreading Factor 9
+End Device 194: Position(305.396, 453.914, 1), Periodicity: Not set, Spreading Factor 10
+End Device 195: Position(366.464, -49.882, 1), Periodicity: Not set, Spreading Factor 8
+End Device 196: Position(382.306, -429.615, 1), Periodicity: Not set, Spreading Factor 12
+End Device 197: Position(238.486, 472.522, 1), Periodicity: Not set, Spreading Factor 12
+End Device 198: Position(188.166, -272.567, 1), Periodicity: Not set, Spreading Factor 9
+End Device 199: Position(336.197, -7.53396, 1), Periodicity: Not set, Spreading Factor 7
+End Device 200: Position(-358.447, -20.951, 1), Periodicity: Not set, Spreading Factor 7
+End Device 201: Position(-493.942, -35.2598, 1), Periodicity: Not set, Spreading Factor 10
+End Device 202: Position(-409.217, -421.24, 1), Periodicity: Not set, Spreading Factor 12
+End Device 203: Position(-141.666, 264.091, 1), Periodicity: Not set, Spreading Factor 8
+End Device 204: Position(258.187, 28.5043, 1), Periodicity: Not set, Spreading Factor 7
+End Device 205: Position(421.156, 113.988, 1), Periodicity: Not set, Spreading Factor 9
+End Device 206: Position(38.5112, -427.329, 1), Periodicity: Not set, Spreading Factor 12
+End Device 207: Position(-334.435, 439.544, 1), Periodicity: Not set, Spreading Factor 12
+End Device 208: Position(-239.367, -244.895, 1), Periodicity: Not set, Spreading Factor 10
+End Device 209: Position(61.0362, -179.126, 1), Periodicity: Not set, Spreading Factor 10
+End Device 210: Position(92.9576, -126.037, 1), Periodicity: Not set, Spreading Factor 10
+End Device 211: Position(-383.559, 380.379, 1), Periodicity: Not set, Spreading Factor 12
+End Device 212: Position(-167.46, -359.563, 1), Periodicity: Not set, Spreading Factor 11
+End Device 213: Position(-434.857, 16.8284, 1), Periodicity: Not set, Spreading Factor 8
+End Device 214: Position(6.43227, 234.172, 1), Periodicity: Not set, Spreading Factor 7
+End Device 215: Position(-334.259, -13.6216, 1), Periodicity: Not set, Spreading Factor 7
+End Device 216: Position(-411.224, 327.157, 1), Periodicity: Not set, Spreading Factor 10
+End Device 217: Position(-28.6666, -196.453, 1), Periodicity: Not set, Spreading Factor 10
+End Device 218: Position(384.621, 159.892, 1), Periodicity: Not set, Spreading Factor 9
+End Device 219: Position(168.009, 291.705, 1), Periodicity: Not set, Spreading Factor 9
+End Device 220: Position(202.156, -423.537, 1), Periodicity: Not set, Spreading Factor 10
+End Device 221: Position(253.519, -52.8066, 1), Periodicity: Not set, Spreading Factor 7
+End Device 222: Position(465.858, -415.97, 1), Periodicity: Not set, Spreading Factor 12
+End Device 223: Position(143.935, -352.892, 1), Periodicity: Not set, Spreading Factor 12
+End Device 224: Position(416.2, 148.752, 1), Periodicity: Not set, Spreading Factor 7
+End Device 225: Position(245.035, 67.8943, 1), Periodicity: Not set, Spreading Factor 7
+End Device 226: Position(-298.803, 97.4807, 1), Periodicity: Not set, Spreading Factor 7
+End Device 227: Position(-281.657, -147.817, 1), Periodicity: Not set, Spreading Factor 7
+End Device 228: Position(-466.157, -286.675, 1), Periodicity: Not set, Spreading Factor 12
+End Device 229: Position(-259.261, -1.25514, 1), Periodicity: Not set, Spreading Factor 7
+End Device 230: Position(325.578, -499.293, 1), Periodicity: Not set, Spreading Factor 11
+End Device 231: Position(378.831, -245.589, 1), Periodicity: Not set, Spreading Factor 10
+End Device 232: Position(168.269, 351.467, 1), Periodicity: Not set, Spreading Factor 7
+End Device 233: Position(-446.854, 338.78, 1), Periodicity: Not set, Spreading Factor 11
+End Device 234: Position(-271.46, -162.595, 1), Periodicity: Not set, Spreading Factor 8
+End Device 235: Position(-391.108, 212.22, 1), Periodicity: Not set, Spreading Factor 10
+End Device 236: Position(267.667, -116.903, 1), Periodicity: Not set, Spreading Factor 7
+End Device 237: Position(354.37, 175.097, 1), Periodicity: Not set, Spreading Factor 8
+End Device 238: Position(-50.5942, -10.3087, 1), Periodicity: Not set, Spreading Factor 8
+End Device 239: Position(304.686, 7.38304, 1), Periodicity: Not set, Spreading Factor 7
+End Device 240: Position(-70.6419, -369.708, 1), Periodicity: Not set, Spreading Factor 12
+End Device 241: Position(36.6815, -361.069, 1), Periodicity: Not set, Spreading Factor 11
+End Device 242: Position(445.718, -264.965, 1), Periodicity: Not set, Spreading Factor 10
+End Device 243: Position(351.875, -83.5035, 1), Periodicity: Not set, Spreading Factor 7
+End Device 244: Position(-321.345, -499.445, 1), Periodicity: Not set, Spreading Factor 12
+End Device 245: Position(-398.456, -114.915, 1), Periodicity: Not set, Spreading Factor 8
+End Device 246: Position(-415.719, -381.938, 1), Periodicity: Not set, Spreading Factor 12
+End Device 247: Position(-354.671, -231.955, 1), Periodicity: Not set, Spreading Factor 9
+End Device 248: Position(-355.825, 144.092, 1), Periodicity: Not set, Spreading Factor 9
+End Device 249: Position(-129.068, 129.954, 1), Periodicity: Not set, Spreading Factor 8
+End Device 250: Position(283.198, 117.54, 1), Periodicity: Not set, Spreading Factor 7
+End Device 251: Position(375.42, 373.629, 1), Periodicity: Not set, Spreading Factor 12
+End Device 252: Position(-405.851, -59.7165, 1), Periodicity: Not set, Spreading Factor 7
+End Device 253: Position(243.864, -334.081, 1), Periodicity: Not set, Spreading Factor 10
+End Device 254: Position(90.0105, -443.695, 1), Periodicity: Not set, Spreading Factor 12
+End Device 255: Position(-174.534, -72.7492, 1), Periodicity: Not set, Spreading Factor 7
+End Device 256: Position(166.277, 254.37, 1), Periodicity: Not set, Spreading Factor 8
+End Device 257: Position(-238.602, -70.6024, 1), Periodicity: Not set, Spreading Factor 7
+End Device 258: Position(275.319, -462.911, 1), Periodicity: Not set, Spreading Factor 12
+End Device 259: Position(-305.289, -434.52, 1), Periodicity: Not set, Spreading Factor 12
+End Device 260: Position(-357.858, 113.75, 1), Periodicity: Not set, Spreading Factor 8
+End Device 261: Position(-353.475, 7.62808, 1), Periodicity: Not set, Spreading Factor 7
+End Device 262: Position(-318.073, -468.303, 1), Periodicity: Not set, Spreading Factor 12
+End Device 263: Position(-119.4, 60.4748, 1), Periodicity: Not set, Spreading Factor 7
+End Device 264: Position(276.165, -100.084, 1), Periodicity: Not set, Spreading Factor 7
+End Device 265: Position(162.595, 138.702, 1), Periodicity: Not set, Spreading Factor 9
+End Device 266: Position(188.784, 1.19405, 1), Periodicity: Not set, Spreading Factor 7
+End Device 267: Position(55.6534, -312.675, 1), Periodicity: Not set, Spreading Factor 12
+End Device 268: Position(-417.229, -297.579, 1), Periodicity: Not set, Spreading Factor 11
+End Device 269: Position(-191.441, -32.6218, 1), Periodicity: Not set, Spreading Factor 7
+End Device 270: Position(283.337, 284.347, 1), Periodicity: Not set, Spreading Factor 10
+End Device 271: Position(105.81, -491.4, 1), Periodicity: Not set, Spreading Factor 12
+End Device 272: Position(337.184, -54.7886, 1), Periodicity: Not set, Spreading Factor 7
+End Device 273: Position(349.9, -428.311, 1), Periodicity: Not set, Spreading Factor 11
+End Device 274: Position(120.683, 110.919, 1), Periodicity: Not set, Spreading Factor 7
+End Device 275: Position(212.502, -129.27, 1), Periodicity: Not set, Spreading Factor 8
+End Device 276: Position(434.085, -7.03285, 1), Periodicity: Not set, Spreading Factor 9
+End Device 277: Position(80.1013, -369.761, 1), Periodicity: Not set, Spreading Factor 12
+End Device 278: Position(56.3968, 60.6607, 1), Periodicity: Not set, Spreading Factor 8
+End Device 279: Position(148.194, -492.583, 1), Periodicity: Not set, Spreading Factor 12
+End Device 280: Position(-361.48, -395.335, 1), Periodicity: Not set, Spreading Factor 11
+End Device 281: Position(-403.534, -307.741, 1), Periodicity: Not set, Spreading Factor 11
+End Device 282: Position(224.008, -150.952, 1), Periodicity: Not set, Spreading Factor 7
+End Device 283: Position(26.6071, 85.612, 1), Periodicity: Not set, Spreading Factor 7
+End Device 284: Position(-448.839, 316.941, 1), Periodicity: Not set, Spreading Factor 11
+End Device 285: Position(-487.215, 87.6933, 1), Periodicity: Not set, Spreading Factor 10
+End Device 286: Position(-225.707, 179.36, 1), Periodicity: Not set, Spreading Factor 7
+End Device 287: Position(-326.48, -331.113, 1), Periodicity: Not set, Spreading Factor 12
+End Device 288: Position(424.352, 213.812, 1), Periodicity: Not set, Spreading Factor 8
+End Device 289: Position(-357.826, -232.901, 1), Periodicity: Not set, Spreading Factor 10
+End Device 290: Position(19.2379, 268.383, 1), Periodicity: Not set, Spreading Factor 7
+End Device 291: Position(-410.265, 295.578, 1), Periodicity: Not set, Spreading Factor 12
+End Device 292: Position(-382.912, 159.612, 1), Periodicity: Not set, Spreading Factor 9
+End Device 293: Position(63.8688, -429.84, 1), Periodicity: Not set, Spreading Factor 12
+End Device 294: Position(-128.004, 145.301, 1), Periodicity: Not set, Spreading Factor 8
+End Device 295: Position(-405.161, -251.3, 1), Periodicity: Not set, Spreading Factor 10
+End Device 296: Position(73.0964, -419.19, 1), Periodicity: Not set, Spreading Factor 12
+End Device 297: Position(338.826, 57.634, 1), Periodicity: Not set, Spreading Factor 7
+End Device 298: Position(-375.217, 103.521, 1), Periodicity: Not set, Spreading Factor 9
+End Device 299: Position(312.632, -206.91, 1), Periodicity: Not set, Spreading Factor 10
+End Device 300: Position(-357.921, -384.896, 1), Periodicity: Not set, Spreading Factor 12
+End Device 301: Position(445.29, -30.3004, 1), Periodicity: Not set, Spreading Factor 8
+End Device 302: Position(366.592, 67.1381, 1), Periodicity: Not set, Spreading Factor 7
+End Device 303: Position(28.5255, -201.493, 1), Periodicity: Not set, Spreading Factor 10
+End Device 304: Position(-392.344, -278.858, 1), Periodicity: Not set, Spreading Factor 9
+End Device 305: Position(330.403, -245.684, 1), Periodicity: Not set, Spreading Factor 9
+End Device 306: Position(153.72, 27.2296, 1), Periodicity: Not set, Spreading Factor 7
+End Device 307: Position(-229.237, -40.1704, 1), Periodicity: Not set, Spreading Factor 7
+End Device 308: Position(84.1407, 444.921, 1), Periodicity: Not set, Spreading Factor 11
+End Device 309: Position(135.031, 269.433, 1), Periodicity: Not set, Spreading Factor 8
+End Device 310: Position(-269.11, -390.661, 1), Periodicity: Not set, Spreading Factor 10
+End Device 311: Position(-310.263, -359.746, 1), Periodicity: Not set, Spreading Factor 10
+End Device 312: Position(477.714, -431.374, 1), Periodicity: Not set, Spreading Factor 12
+End Device 313: Position(239.701, -141.549, 1), Periodicity: Not set, Spreading Factor 7
+End Device 314: Position(165.163, 374.646, 1), Periodicity: Not set, Spreading Factor 8
+End Device 315: Position(-75.5955, -388.469, 1), Periodicity: Not set, Spreading Factor 12
+End Device 316: Position(-3.25269, -1.86571, 1), Periodicity: Not set, Spreading Factor 7
+End Device 317: Position(-329.749, 54.5493, 1), Periodicity: Not set, Spreading Factor 7
+End Device 318: Position(-488.31, -302.174, 1), Periodicity: Not set, Spreading Factor 12
+End Device 319: Position(-290, -485.358, 1), Periodicity: Not set, Spreading Factor 12
+End Device 320: Position(467.512, -117.26, 1), Periodicity: Not set, Spreading Factor 10
+End Device 321: Position(35.5421, 416.027, 1), Periodicity: Not set, Spreading Factor 9
+End Device 322: Position(168.062, 135.251, 1), Periodicity: Not set, Spreading Factor 8
+End Device 323: Position(290.584, -470.609, 1), Periodicity: Not set, Spreading Factor 12
+End Device 324: Position(225.748, -494.348, 1), Periodicity: Not set, Spreading Factor 12
+End Device 325: Position(-98.2812, 17.3195, 1), Periodicity: Not set, Spreading Factor 7
+End Device 326: Position(-46.6191, 140.591, 1), Periodicity: Not set, Spreading Factor 7
+End Device 327: Position(476.653, 242.339, 1), Periodicity: Not set, Spreading Factor 11
+End Device 328: Position(-349.578, 369.074, 1), Periodicity: Not set, Spreading Factor 11
+End Device 329: Position(224.705, -30.4488, 1), Periodicity: Not set, Spreading Factor 7
+End Device 330: Position(-381.88, 123.021, 1), Periodicity: Not set, Spreading Factor 7
+End Device 331: Position(-217.032, 251.588, 1), Periodicity: Not set, Spreading Factor 9
+End Device 332: Position(482.707, 432.523, 1), Periodicity: Not set, Spreading Factor 12
+End Device 333: Position(210.47, 325.936, 1), Periodicity: Not set, Spreading Factor 7
+End Device 334: Position(-358.449, -19.0184, 1), Periodicity: Not set, Spreading Factor 7
+End Device 335: Position(-96.1134, 116.117, 1), Periodicity: Not set, Spreading Factor 7
+End Device 336: Position(-365.62, -490.869, 1), Periodicity: Not set, Spreading Factor 12
+End Device 337: Position(-214.701, 386.488, 1), Periodicity: Not set, Spreading Factor 10
+End Device 338: Position(441.803, 130.103, 1), Periodicity: Not set, Spreading Factor 8
+End Device 339: Position(359.154, -49.4692, 1), Periodicity: Not set, Spreading Factor 7
+End Device 340: Position(163.933, 272.531, 1), Periodicity: Not set, Spreading Factor 9
+End Device 341: Position(-76.8851, -69.5622, 1), Periodicity: Not set, Spreading Factor 8
+End Device 342: Position(73.5659, -274.437, 1), Periodicity: Not set, Spreading Factor 12
+End Device 343: Position(-43.9437, 24.7212, 1), Periodicity: Not set, Spreading Factor 10
+End Device 344: Position(282.766, -355.243, 1), Periodicity: Not set, Spreading Factor 12
+End Device 345: Position(-267.744, -378.598, 1), Periodicity: Not set, Spreading Factor 12
+End Device 346: Position(309.55, -64.8141, 1), Periodicity: Not set, Spreading Factor 7
+End Device 347: Position(305.286, -492.817, 1), Periodicity: Not set, Spreading Factor 12
+End Device 348: Position(372.924, -226.723, 1), Periodicity: Not set, Spreading Factor 11
+End Device 349: Position(372.582, 312.547, 1), Periodicity: Not set, Spreading Factor 11
+End Device 350: Position(301.248, -251.538, 1), Periodicity: Not set, Spreading Factor 9
+End Device 351: Position(-271.828, 496.02, 1), Periodicity: Not set, Spreading Factor 10
+End Device 352: Position(-275.468, 209.139, 1), Periodicity: Not set, Spreading Factor 8
+End Device 353: Position(-17.6963, 28.26, 1), Periodicity: Not set, Spreading Factor 8
+End Device 354: Position(-377.278, -323.044, 1), Periodicity: Not set, Spreading Factor 11
+End Device 355: Position(43.6707, 321.384, 1), Periodicity: Not set, Spreading Factor 7
+End Device 356: Position(-339.021, -442.759, 1), Periodicity: Not set, Spreading Factor 12
+End Device 357: Position(3.07282, 144.955, 1), Periodicity: Not set, Spreading Factor 7
+End Device 358: Position(136.605, 223.532, 1), Periodicity: Not set, Spreading Factor 7
+End Device 359: Position(89.1996, 35.382, 1), Periodicity: Not set, Spreading Factor 8
+End Device 360: Position(-275.496, -51.8747, 1), Periodicity: Not set, Spreading Factor 7
+End Device 361: Position(-356.466, 229.118, 1), Periodicity: Not set, Spreading Factor 11
+End Device 362: Position(-147.991, -211.512, 1), Periodicity: Not set, Spreading Factor 9
+End Device 363: Position(471.659, -3.66729, 1), Periodicity: Not set, Spreading Factor 7
+End Device 364: Position(235.248, -58.4327, 1), Periodicity: Not set, Spreading Factor 7
+End Device 365: Position(263.172, -419.144, 1), Periodicity: Not set, Spreading Factor 10
+End Device 366: Position(-231.091, 155.661, 1), Periodicity: Not set, Spreading Factor 7
+End Device 367: Position(237.17, 381.485, 1), Periodicity: Not set, Spreading Factor 9
+End Device 368: Position(-78.5284, 13.9129, 1), Periodicity: Not set, Spreading Factor 10
+End Device 369: Position(471.462, -416.527, 1), Periodicity: Not set, Spreading Factor 12
+End Device 370: Position(295.767, -211.636, 1), Periodicity: Not set, Spreading Factor 9
+End Device 371: Position(252.853, 394.057, 1), Periodicity: Not set, Spreading Factor 12
+End Device 372: Position(176.452, 478.104, 1), Periodicity: Not set, Spreading Factor 10
+End Device 373: Position(358.474, 409.394, 1), Periodicity: Not set, Spreading Factor 12
+End Device 374: Position(-11.1981, 212.172, 1), Periodicity: Not set, Spreading Factor 7
+End Device 375: Position(-422.387, 296.641, 1), Periodicity: Not set, Spreading Factor 8
+End Device 376: Position(-103.455, 434.503, 1), Periodicity: Not set, Spreading Factor 9
+End Device 377: Position(60.4357, 191.875, 1), Periodicity: Not set, Spreading Factor 7
+End Device 378: Position(-113, 430.043, 1), Periodicity: Not set, Spreading Factor 8
+End Device 379: Position(-459.621, 383.479, 1), Periodicity: Not set, Spreading Factor 12
+End Device 380: Position(51.6548, 73.6749, 1), Periodicity: Not set, Spreading Factor 8
+End Device 381: Position(48.107, -206.688, 1), Periodicity: Not set, Spreading Factor 10
+End Device 382: Position(327.523, 108.944, 1), Periodicity: Not set, Spreading Factor 7
+End Device 383: Position(287.454, -468.404, 1), Periodicity: Not set, Spreading Factor 11
+End Device 384: Position(281.242, -167.991, 1), Periodicity: Not set, Spreading Factor 8
+End Device 385: Position(-317.461, -219.086, 1), Periodicity: Not set, Spreading Factor 9
+End Device 386: Position(-297.422, 26.2064, 1), Periodicity: Not set, Spreading Factor 7
+End Device 387: Position(442.072, -82.3305, 1), Periodicity: Not set, Spreading Factor 8
+End Device 388: Position(211.591, 454.025, 1), Periodicity: Not set, Spreading Factor 10
+End Device 389: Position(-272, 300.986, 1), Periodicity: Not set, Spreading Factor 10
+End Device 390: Position(35.1963, 228.594, 1), Periodicity: Not set, Spreading Factor 7
+End Device 391: Position(128.121, 213.457, 1), Periodicity: Not set, Spreading Factor 7
+End Device 392: Position(92.3066, -12.2129, 1), Periodicity: Not set, Spreading Factor 7
+End Device 393: Position(-345.356, 251.211, 1), Periodicity: Not set, Spreading Factor 11
+End Device 394: Position(-268.827, 332.158, 1), Periodicity: Not set, Spreading Factor 10
+End Device 395: Position(278.585, 220.059, 1), Periodicity: Not set, Spreading Factor 10
+End Device 396: Position(153.821, -78.774, 1), Periodicity: Not set, Spreading Factor 7
+End Device 397: Position(394.699, -191.855, 1), Periodicity: Not set, Spreading Factor 10
+End Device 398: Position(448.347, -420.28, 1), Periodicity: Not set, Spreading Factor 12
+End Device 399: Position(-212.187, 68.3562, 1), Periodicity: Not set, Spreading Factor 7
+End Device 400: Position(-213.032, -382.77, 1), Periodicity: Not set, Spreading Factor 12
+End Device 401: Position(332.364, 137.548, 1), Periodicity: Not set, Spreading Factor 8
+End Device 402: Position(-339.932, -147.606, 1), Periodicity: Not set, Spreading Factor 8
+End Device 403: Position(-180.43, -74.3768, 1), Periodicity: Not set, Spreading Factor 7
+Gateways 1: Position(250, 0, 1.5)
+Gateways 2: Position(-250, 0, 1.5)
+Gateways 3: Position(0, 250, 1.5)
+--Start--
+Simulated time: 0 hours, Real time from last call: 0 seconds
+--Finish--
+Uplink Statistics
+
+Packets outcomes distribution (4132 sent, 3302 received):
+  RECEIVED: 79.9129%
+  INTERFERED: 1.7183%
+  NO_MORE_RECEIVERS: 0%
+  BUSY_GATEWAY: 6.46176%
+  UNDER_SENSITIVITY: 11.9071%
+  CONF BUSY_GATEWAY: 4.40465%
+ UNCONF BUSY_GATEWAY: 2.05712%
+ CONF UNDER_SENSITIVITY: 9.09971%
+  UNCONF UNDER_SENSITIVITY: 2.80736%
+----------------------------------------------------------------
+  RECEIVED: 3302
+  INTERFERED: 71
+  NO_MORE_RECEIVERS: 0
+  BUSY_GATEWAY: 267
+  UNDER_SENSITIVITY: 492
+  CONF BUSY_GATEWAY: 182
+ UNCONF BUSY_GATEWAY: 85
+  CONF UNDER_SENSITIVITY: 376
+ UNCONF UNDER_SENSITIVITY: 116
+
+PDR: SF7 84.7754%, SF8 78.3824%, SF9 84.2222%, SF10 77.0893%, SF11 75.9901%, SF12 75.3561%, 
+
+Input Traffic: 303.013 b/s
+Network Throughput: 242.147 b/s
+
+Total (empirical) offered traffic: 0.631174 E
+
+##########################################
+Downlink Statistics
+#Pkt Scheduled: 0
+#Pkt drop late: 0
+# Pkt Loss due Tx: 0
+# Pkt Tx: 0
+
+   Packets outcomes distribution (1397 sent, 901 received):%
+  DUTY CYCLE: 0
+   RECEIVED: 64.4953%
+  INTERFERED: 3.07802%
+  NO_MORE_RECEIVERS: 0%
+  BUSY_GATEWAY: 0%
+  UNDER_SENSITIVITY: 32.4266%
+----------------------------------------------------------------%
+ SCHEDULLED: 1397%
+  DUTY CYCLE: 0
+  RECEIVED: 901
+  INTERFERED: 43
+  NO_MORE_RECEIVERS: 0
+  BUSY_GATEWAY: 0
+  UNDER_SENSITIVITY: 453
+
+PDR: SF7 55.8603%, SF8 44.9393%, SF9 49.6503%, SF10 -nan%, SF11 -nan%, SF12 81.6832%, 
+
+Input Traffic: 37.2533 b/s
+Network Throughput: 24.0267 b/s
+
+Total (empirical) offered traffic: 0.210419 E
+
+##########################################
+Sent UPLINKS: 4132 - Received UPLINKS: 3302
+Confirm UPLINKS: 3098 - Received ACK: 885
+--ED log--
+--uplinks log--
+--Destroy--
+
+Tear down process terminated after receiving signal 0
+
+Tear down process terminated after receiving signal 0
+spawn_id: spawn id exp4 not open
+    while executing
+"interact"
+    (file "./run_ns3.sh" line 31)

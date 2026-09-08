@@ -1,0 +1,29 @@
+{
+    "recuento": {
+        "total_failed_scheduling": 0,
+        "total_block": 0,
+        "total_failed_Rx1": 0,
+        "total_failed_Rx2": 0,
+        "total_failed_conflict": 0,
+        "total_failed_duty_cycle": 0,
+        "total_gw_blocked": 0,
+        "total_failed_duty_cycle_rx1": 0,
+        "total_failed_negated_rx1": 0,
+        "total_failed_negated_rx2": 0,
+        "total_failed_duty_cycle_rx2": 0,
+        "total_gw_blocked_rx1": 0,
+        "total_gw_blocked_rx2": 0,
+        "total_failed_conflict_rx1": 0,
+        "total_failed_conflict_rx2": 0,
+        "rx_empty": 0,
+        "unknown": 0,
+        "total_to_ack": 0
+    },
+    "results": {
+        "blocked_only": 107,
+        "conflict_only": 6,
+        "mixed": 23,
+        "not_allowed": 0,
+        "total_to_ack": 360
+    }
+}

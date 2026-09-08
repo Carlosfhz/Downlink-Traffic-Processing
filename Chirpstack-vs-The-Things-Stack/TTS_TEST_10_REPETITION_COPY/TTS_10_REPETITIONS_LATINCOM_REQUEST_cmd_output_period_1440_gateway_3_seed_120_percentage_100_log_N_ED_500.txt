@@ -1,0 +1,555 @@
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'conflict', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'conflict'}, 'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'conflict'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'conflict'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}, 'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'conflict'}, 'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'conflict'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'conflict', 2: 'conflict'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'conflict', 2: 'conflict'}, '0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'conflict', 2: 'conflict'}, 'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}, 'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}, 'gw-3': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}, 'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'conflict', 2: 'conflict'}, 'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'conflict', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}, '0001000000000001': {1: 'conflict', 2: 'conflict'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'conflict', 2: 'conflict'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}, 'gw-3': {1: 'conflict', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'conflict'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'gw-3': {1: 'conflict', 2: 'blocked'}, 'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'conflict', 2: 'conflict'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-2': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}, '0001000000000001': {1: 'blocked', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}, 'gw-3': {1: 'conflict', 2: 'conflict'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'conflict', 2: 'conflict'}, '0001000000000001': {1: 'blocked', 2: 'blocked'}}
+{'gw-3': {1: 'blocked', 2: 'blocked'}}
+Process Finished
